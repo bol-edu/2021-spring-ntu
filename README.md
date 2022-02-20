@@ -30,19 +30,19 @@ Note: The platform used by the projects, include PYNQ-Z2, and Xilinx U50.
 ## Lab A
 Lab A is about HLS Blue Book. This part provides implementation for High-Level Synthesis Blue Book's Examples using Xilinx HLS. This is one lab from NTU CSIE's Advanced Computer Architecture Course(CSIE5059 2021 Spring). 
 
-| Chapters                                                     | Backup                             |
-| :----------------------------------------------------------- | ---------------------------------- |
-| [Chapter3 - Bit Accurate Data Types](https://github.com/chenhao1106/Chapter3-BitAccurateDataTypes) | [Backup](./LabA./Chapter3)         |
-| [Chapter4 - Fundamental of High Level Synthesis](https://github.com/Arthurddd/HLS_CH4) | [Backup](./LabA./Chapter4)         |
-| [Chapter5 - Scheduling of IO and Memories](https://github.com/ChienKaiMa/2021_ACA_HLS_team05) | [Backup](./LabA./Chapter5)         |
-| [Chapter6.1 - 6.4 - Sequential and Combinational - Hardware](https://github.com/soyccan/HLS-Bluebook) | [Backup](./LabA./Chapter6.1-6.4)   |
-| [Chapter6.5 - 6.8 - Sequential and Combinational Hardware](https://github.com/ian861226/ACA21-HLS-LAB-A-team-8) | [Backup](./LabA./Chapter6.5-6.8)   |
-| [Chapter7 Memory Architecture](https://github.com/kaiiiz/hls-bluebook-memory-architectures) | [Backup](./LabA./Chapter7)         |
-| [Chapter8 Hierarchical Design](https://github.com/s950449/HLS_LabA_Team11) | [Backup](./LabA./Chapter8)         |
-| [Chapter9 Advanced Hierarchical Design](https://github.com/ChungChenWei/HLS_LabA_Team2_Ch9) | [Backup](./LabA./Chapter9)         |
-| [Chapter10.1 - 10.3 : Digital Filter](https://github.com/strongshih/ACA2021_Lab1_Team1) | [Backup](./LabA./Chapter10.1-10.3) |
-| [Chapter 10.4 - 10.6 : Digital Filter](https://github.com/yuweitt/HLS-Coding-Style-Decimation-Interpolation-Multi-stage-FIR) | [Backup](./LabA./Chapter10.4-10.6) |
-| [Chapter 11: FFT Transformation](https://github.com/eee4017/HLS_Lab_A) | [Backup](./LabA./Chapter11)        |
+| Chapters                                                     | Backup                          |
+| :----------------------------------------------------------- | ------------------------------- |
+| [Chapter3 - Bit Accurate Data Types](https://github.com/chenhao1106/Chapter3-BitAccurateDataTypes) | [link](./LabA/Chapter3)         |
+| [Chapter4 - Fundamental of High Level Synthesis](https://github.com/Arthurddd/HLS_CH4) | [link](./LabA/Chapter4)         |
+| [Chapter5 - Scheduling of IO and Memories](https://github.com/ChienKaiMa/2021_ACA_HLS_team05) | [link](./LabA/Chapter5)         |
+| [Chapter6.1 - 6.4 - Sequential and Combinational - Hardware](https://github.com/soyccan/HLS-Bluebook) | [link](./LabA/Chapter6.1-6.4)   |
+| [Chapter6.5 - 6.8 - Sequential and Combinational Hardware](https://github.com/ian861226/ACA21-HLS-LAB-A-team-8) | [link](./LabA/Chapter6.5-6.8)   |
+| [Chapter7 Memory Architecture](https://github.com/kaiiiz/hls-bluebook-memory-architectures) | [link](./LabA/Chapter7)         |
+| [Chapter8 Hierarchical Design](https://github.com/s950449/HLS_LabA_Team11) | [link](./LabA/Chapter8)         |
+| [Chapter9 Advanced Hierarchical Design](https://github.com/ChungChenWei/HLS_LabA_Team2_Ch9) | [link](./LabA/Chapter9)         |
+| [Chapter10.1 - 10.3 : Digital Filter](https://github.com/strongshih/ACA2021_Lab1_Team1) | [link](./LabA/Chapter10.1-10.3) |
+| [Chapter 10.4 - 10.6 : Digital Filter](https://github.com/yuweitt/HLS-Coding-Style-Decimation-Interpolation-Multi-stage-FIR) | [link](./LabA/Chapter10.4-10.6) |
+| [Chapter 11: FFT Transformation](https://github.com/eee4017/HLS_Lab_A) | [link](./LabA/Chapter11)        |
 
 ## Lab B
 Lab B is about Improved Existing Projects.
